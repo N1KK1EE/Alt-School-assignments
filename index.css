@@ -1,0 +1,14 @@
+html,body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0;
+    margin:auto
+}
+header{
+    border bottom: 1px; color: palevioletred;
+    padding: 10px
+}
+.grid{
+    display: grid;
+    grid-template-columns: 200px;
+    grid-template-rows: 100px;
+}
